@@ -1,8 +1,7 @@
 <h2>
-Dhruv Patel
-</h2>
+👋 Hi! </h2>
 
-👋 Hi, I'm Dhruv Patel and I'm a sophomore at the Illinois Mathematics and Science Academy! I use GitHub to store some personal projects I'm currently working on, but in the near future, I'd like to contribute to any open source project or help out with any organization's work! 
+I'm Dhruv Patel and I'm a sophomore at the Illinois Mathematics and Science Academy! I use GitHub to store some personal projects I'm currently working on, but in the near future, I'd like to contribute to any open source project or help out with any organization's work! 
 
 Feel free to contact me at dhruvtkpatel@gmail.com!
 
