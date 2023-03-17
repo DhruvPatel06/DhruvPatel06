@@ -8,20 +8,12 @@ My name is Dhruv Patel, and I'm a senior at the Ilinois Math and Science Academy
 - 👶 **NameChrono**, a tool that tracks the chronological history of a name and its potential future growth based on current trends and data analysis.
 - 🌎 **LABRS**, a tool that predicts a patient's risk to Parkinson's using local ancestral calculations and hidden-Markov models sequenced from reference datasets (e.g., 1000 Genomes Project, POPRES, HapMap, etc.)
 
+
 #### A Few Basic, Fun Projects:
+
+- 🧮 **Simple Calculator**, my very-first project that recreates a scientific calculator, but with no special plug-ins or libraries.
+- 🚩**Flag Drawer,** a program that draws the flag of any country in the world for a specific width/height.
 
 ## 🌱Language Expertise
 
 I'm experienced in **C#, Bash, Java, Python, HTML, CSS, and JavaScript.** I'm learning Swift, React, and Flutter right now!
-
-
-
-# ✨ Past and Current Projects
-## In Progress
- - ⚖️ Azimuth (A career quiz based on outcome-weighing)
- - 🥠 AI Fortune Cookie Generator
-
-## Completed
- - 🧪 [**USNCO Problems**](https://github.com/thewindsofwinter/usnco-problems), a chemistry olympiad problem archive, along with 🤖 [**Lavoisier**](https://github.com/thewindsofwinter/lavoisier-public), a chemistry community Discord bot
- - 🧮 [**24 Together**](https://github.com/thewindsofwinter/24-together), a fun, engaging math/card game packaged in a multiplayer web app so you can play with friends anywhere
- - ➕ [**IMSA JHMC Website**](https://github.com/IMSA-JHMC/JHMC-scripts), a math contest web platform which serves hundreds of middle school students nationwide every year
