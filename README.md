@@ -4,9 +4,11 @@ My name is Dhruv Patel, and I'm a senior at the Ilinois Math and Science Academy
 
 # ✨ Some Projects I've Been Working On
 
-- 👭**AbilityConnect**, a web (and soon-to-be app) platform that fosters connections among individuals experiencing rare mobility conditions (e.g., tremors, ataxia, dystonia, and more). This project is supported by the Opal Lab at Northwestern University and the National Ataxia Foundation.
+- 👭**AbilityConnect**, a web (and soon-to-be app) platform that fosters connections among individuals experiencing rare mobility conditions (e.g., tremors, ataxia, dystonia, and more).
 - 👶 **NameChrono**, a tool that tracks the chronological history of a name and its potential future growth based on current trends and data analysis.
-- 🌎 **LABRS**, a tool that predicts a patient's risk to Parkinson's using local ancestral calculations and hidden-Markov models sequenced from reference datasets like the 1000 Genomes Project.
+- 🌎 **LABRS**, a tool that predicts a patient's risk to Parkinson's using local ancestral calculations and hidden-Markov models sequenced from reference datasets (e.g., 1000 Genomes Project, POPRES, HapMap, etc.)
+
+## Some more computationally-intensive projects
 
 **
 
@@ -23,7 +25,6 @@ I'm experienced in **C#, Bash, Java, Python, HTML, CSS, and JavaScript.** I'm le
  - 🥠 AI Fortune Cookie Generator
 
 ## Completed
- - 🔬 [**ANIMA**](https://github.com/thewindsofwinter/ANIMA), a tool to automate image analysis of mouse brain slices to quantify severity of post-seizure neurodegeneration
  - 🧪 [**USNCO Problems**](https://github.com/thewindsofwinter/usnco-problems), a chemistry olympiad problem archive, along with 🤖 [**Lavoisier**](https://github.com/thewindsofwinter/lavoisier-public), a chemistry community Discord bot
  - 🧮 [**24 Together**](https://github.com/thewindsofwinter/24-together), a fun, engaging math/card game packaged in a multiplayer web app so you can play with friends anywhere
  - ➕ [**IMSA JHMC Website**](https://github.com/IMSA-JHMC/JHMC-scripts), a math contest web platform which serves hundreds of middle school students nationwide every year
