@@ -14,6 +14,6 @@ My name is Dhruv Patel, and I'm a senior at the Ilinois Math and Science Academy
 - 🧮 **Simple Calculator**, my very-first project that recreates a scientific calculator, but with no special plug-ins or libraries.
 - 🚩**Flag Drawer,** a program that draws the flag of any country in the world for a specific width/height.
 
-## 🌱Language Expertise
+## 🌱 Language Expertise
 
 I'm experienced in **C#, Bash, Java, Python, HTML, CSS, and JavaScript.** I'm learning Swift, React, and Flutter right now!
