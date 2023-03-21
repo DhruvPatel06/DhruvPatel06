@@ -14,6 +14,7 @@ My name is Dhruv Patel, and I'm a senior at the Ilinois Math and Science Academy
 #### A Few More Simple, Fun Projects
 
 - 🧮 [**Simple Calculator**](https://github.com/dhruvtpatel/SimpleCalculator), my very-first project that recreates a scientific calculator, but with no special plug-ins or libraries.
+- 🔢 24
 - 🚩[**Flag Drawer**](https://github.com/dhruvtpatel/FlagDrawer), a program that draws the flag of any country in the world for a specific width/height.
 
 ### Projects I'm Working On
