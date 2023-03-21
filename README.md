@@ -22,5 +22,3 @@ My name is Dhruv Patel, and I'm a senior at the Ilinois Math and Science Academy
 I'm experienced in **C#, Bash, Java, Python, HTML, CSS, and JavaScript.** I'm learning Swift, React, and Flutter right now!
 
 [![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvtpatel)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvtpatel)](https://github.com/anuraghazra/github-readme-stats)
-
