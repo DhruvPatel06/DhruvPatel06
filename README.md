@@ -20,7 +20,7 @@ My name is Dhruv Patel, and I'm a senior at the Ilinois Math and Science Academy
 
 ### Projects I'm Working On
 
-- 🎤 **CardSearch**, an automated debate evidence finder for debaters looking to expedite their searches.
+- 🔎 **CardSearch**, an automated debate evidence finder for debaters looking to expedite their searches.
 
 ## 🌱 Language Expertise
 
