@@ -5,6 +5,7 @@ My name is Dhruv Patel, and I'm a senior at the Ilinois Math and Science Academy
 # ✨ A Few Completed Projects
 
 - ♿ [**MapAbility**](https://github.com/dhruvtpatel/MapAbility), an open-source tool that rates sidewalks, roadways, and public buildings on their accessibility for users with mobility disabilities.
+- 🎤 [**DebateDash**](https://github.com/dhruvtpatel/DebateDash), an app offering automated timing, speech efficiency drills, recording, resources, and tips for debaters. 
 - ✂️ [**CardCut Pro**](https://github.com/dhruvtpatel/CardCutPro), a customizable card-cutting app for debate that automatically formats cards, saving time and effort for serious debaters.
 - 📷 [**Patel Productions**](https://github.com/dhruvtpatel/PatelProductions), a website to showcase some of my videography work, including commercials, hype reels, PSAs, documenteries, and more.
 - 👶 [**NameChrono**](https://github.com/dhruvtpatel/NameChrono), a tool that tracks the chronological history of a name and its potential future growth based on current trends and data analysis.
